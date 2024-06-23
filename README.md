@@ -8,7 +8,7 @@ pip install numpy
 How to run streamlit local server:  
 streamlit run app.py
 
-Using the CNN ResNet50 model (m-cnn-2.h5 files) trained on a skin disease dataset, the model classifies images into three categories: Eczema, Melanocytic Nevi (NV), and Psoriasis Lichen Planus.
+This ML using CNN ResNet50 model (m-cnn-2.h5 files) trained on a skin disease dataset and classifies images into three categories: Eczema, Melanocytic Nevi (NV), and Psoriasis Lichen Planus.
 
 Source datasets : https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset  
 Source python model code : https://www.kaggle.com/code/zozomice/cnn-resnet50-ml-kelompok8  
