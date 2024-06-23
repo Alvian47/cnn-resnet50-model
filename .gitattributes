@@ -1,0 +1,2 @@
+D:/Coding/Python/adrianRosebrock/deploy filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
